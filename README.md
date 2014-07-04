@@ -1,4 +1,4 @@
-This shell script is to simplify the process of deploying projects from SVN.\r\n
+This shell script is to simplify the process of deploying projects from SVN.
 Usage:
 ./deploy4nix.sh {svn_version_number}
 
